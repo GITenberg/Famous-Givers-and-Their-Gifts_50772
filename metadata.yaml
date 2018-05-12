@@ -1,4 +1,8 @@
 _repo: Famous-Givers-and-Their-Gifts_50772
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50772-h/images/cover.jpg
 creator:
   author:
     agent_name: Bolton, Sarah Knowles
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4216
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Knowles_Bolton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50772#Famous-Givers-and-Their-Gifts
 gutenberg_issued: '2015-12-27'
 gutenberg_type: Text
 identifiers:
